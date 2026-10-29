@@ -1,3 +1,6 @@
+# 1st Reflection Question: The most surprising part of lists in python were how easy it is to now find averages, high and low counts, and the count of arrays. In the midterm, it was much harder not knowing how to prioritize lists, but now it seems so much easier.
+# 2nd Reflection Question: A real business situation could be being given a list of sales for a car dealership and your boss asking you to find the total amount of sales, which sale was the highest, and the average sale price. You could use lists to find all of those numbers much easier and save you more time than doing the math or observations yourself.
+
 print("--- Exercise 1: Build the List ---")
 
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
